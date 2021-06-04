@@ -177,4 +177,4 @@ async def on_message(message):
 
 ####################################################################################################
 
-client.run('token here')
+client.run('ODQ4MjAyMTU1MjAyMzE0Mjky.YLJL0A.8HJUtUWLXKbN8Hc_0r2NVB1n_p0')
